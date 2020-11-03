@@ -1,0 +1,21 @@
+Name,MassShift,Formula,Pahse
+Decarboxylation,-44,CO2,1
+Loss of H2O,-18,H2O,1
+Demethylation,-14,CH2,1
+Dehydrogenation,-2,H2,1
+Dehydrogenation,2,H2,1
+Oxidation,16,O,1
+Di-Oxidation,32,O2,1
+Tri-Oxidation,48,O3,1
+Methylation,14,CH2,2
+Di-Oxidation,28,C2H4,2
+Acetylation,42,C2H20,2
+Glycine,57,C2H3NO,2
+Sulfonation,80,SO3,2
+Cysteine,103,C3H5NOS,2
+Taurine,107,C2H5NO2S,2
+Glucose,162,C6H10O5,2
+Glucuroidation,176,C6H8O6,2
+Glutathione,289,C10H15N3O5S,2
+S-Glutathione,305,C10H15N3O6S,2
+Bis-Glucuronidation,352,C12H16O12,2
